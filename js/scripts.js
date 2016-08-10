@@ -5,6 +5,7 @@ $(document).ready(function() {
 
     $(".name").text(nameInput);
 
+    $(".paper").show();
     $("#letter").show();
   });
 });
